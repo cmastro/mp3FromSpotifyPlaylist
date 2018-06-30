@@ -1,0 +1,18 @@
+code sample
+---
+https://y-api.org/button/?v=KMU0tzLwhbE&f=mp3&t=1&fc=#ffffff&bc=#000000
+
+
+
+required parameters
+---
+v (youtube video id) => KMU0tzLwhbE
+f (format)           => mp3/mp4
+
+
+
+optional parameters
+---
+fc (font-color)       => #ffffff
+bc (background-color) => #000000
+t  (title)            => 1 (true) / 0 (false)
